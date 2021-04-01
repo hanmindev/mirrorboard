@@ -6,6 +6,16 @@ I had this idea for a while now, making the first version in 2020, but of course
 
 In essence, this makes the caps lock key into a toggle, which mirrors the keyboard so if you type "qwerty" with caps lock activated, you get out "poiuyt".
 
+# Installation
+1. Download AutoHotkey from here:
+https://www.reddit.com/r/mirrorboard/
+2. Run mirrorboard.ahk
+3. ???
+4. Profit
+
+You could throw mirrorboard.ahk in the startup folder if you want mirrorboard to be enabled at all times.
+
+
 # Usage
 Here is a nice diagram to show what is mapped to what:  
 ![](https://i.imgur.com/CYBTGXA.png)

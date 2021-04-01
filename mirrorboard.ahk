@@ -42,20 +42,30 @@ SendMode Input
 !^+s::Send ^+{Down}
 !^+d::Send ^+{Right}
 
-!#a::Send {Home}
-!#s::Send {Down}
-!#d::Send {End}
-!#w::Send {Up}
 
-!+#a::Send {LShift down}{Home}{LShift up}
-!+#s::Send {LShift down}{Down}{LShift up}
-!+#d::Send {LShift down}{End}{LShift up}
-!+#w::Send {LShift down}{Up}{LShift up}
 
-!^#a::Send {LCtrl down}{Home}{LCtrl up}
-!^#s::Send {LCtrl down}{Down}{LCtrl up}
-!^#d::Send {LCtrl down}{End}{LCtrl up}
-!^#w::Send LCtrl down}{Up}{{LCtrl up}
+!#1::Send {PrintScreen}
+!#2::Send {ScrollLock}
+!#3::Send {Pause}
+
+!#q::Send {Insert}
+!#a::Send {Delete}
+
+
+!#w::Send {Home}
+!#d::Send {Down}
+!#s::Send {End}
+!#e::Send {Up}
+
+!+#w::Send {LShift down}{Home}{LShift up}
+!+#d::Send {LShift down}{Down}{LShift up}
+!+#s::Send {LShift down}{End}{LShift up}
+!+#e::Send {LShift down}{Up}{LShift up}
+
+!^#w::Send {LCtrl down}{Home}{LCtrl up}
+!^#d::Send {LCtrl down}{Down}{LCtrl up}
+!^#s::Send {LCtrl down}{End}{LCtrl up}
+!^#e::Send LCtrl down}{Up}{{LCtrl up}
 
 
 

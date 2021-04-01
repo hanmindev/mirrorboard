@@ -32,7 +32,7 @@ To gain access to -__=+\|[]{} and the arrow keys, hold down alt and press the ke
 
 To gain access to the nine keys above the arrow keys, while holding down alt, hold down the windows key as well, then press the keys as shown in the diagram.
 
-You may notice that the mirrored ++ and mirrored # only works if you are using your left hand. Thats because all those keys are already on the right side.
+You may notice that the mirrored ++ and mirrored # only works if you are using your left hand. Thats because all those keys are already on the right side, hence no reason to use the layouts.
 
 If you are going to learn mirrorboard, I advise you start with your left hand, because most typing is done with the left hand so it'll be easier to learn.
 

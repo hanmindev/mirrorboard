@@ -13,7 +13,7 @@ https://www.autohotkey.com/download/
 3. ???
 4. Profit
 
-You could throw mirrorboard.ahk in the startup folder if you want mirrorboard to be enabled at all times.
+You could throw mirrorboard.ahk in the [startup folder](https://www.google.com/search?client=firefox-b-d&q=how+to+navigate+to+startup+folder+in+windows+10) if you want mirrorboard to be enabled at all times.
 
 
 # Usage

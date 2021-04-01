@@ -8,7 +8,7 @@ In essence, this makes the caps lock key into a toggle, which mirrors the keyboa
 
 # Installation
 1. Download AutoHotkey from here:
-https://www.reddit.com/r/mirrorboard/
+https://www.autohotkey.com/download/
 2. Run mirrorboard.ahk
 3. ???
 4. Profit

@@ -7,15 +7,15 @@ I had this idea for a while now, making the first version in 2020, but of course
 In essence, this makes the caps lock key into a toggle, which mirrors the keyboard so if you type "qwerty" with caps lock activated, you get out "poiuyt".
 
 # Usage
-Here is a nice diagram to show what is mapped to what:
+Here is a nice diagram to show what is mapped to what:  
 ![](https://i.imgur.com/CYBTGXA.png)
 
 Pressing the caps lock or the tray key (blue) switches between the normal and the mirrored layout. The keys that are colored light blue are the keys that are different from the normal layout.
 
 Pressing space will type a space character and return the layout to normal.
 
-Using your left hand, try typing "Hello, World!"
-(hint: type "He[caps]ssw [space] w[caps]o[caps]r[caps]s[caps]d!")
+Using your left hand, try typing "Hello, World!"  
+(hint: type "He[caps]ssw [space] w[caps]o[caps]r[caps]s[caps]d!")  
 If you make a mistake, the backspace key is mapped to ctrl. I usually press it with my palm.
 
 To gain access to -__=+\|[]{} and the arrow keys, hold down alt and press the keys as shown on the diagram.

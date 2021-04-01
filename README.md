@@ -26,8 +26,9 @@ You may notice that the mirrored ++ and mirrored # only works if you are using y
 
 If you are going to learn mirrorboard, I advise you start with your left hand, because most typing is done with the left hand so it'll be easier to learn.
 
-# Join the discussion here:
+# Join the discussion!
 https://discord.gg/zyewcWD5Rd
+https://www.reddit.com/r/mirrorboard/
 
 # Contributions
 Some code was stolen off various fourm posts and [Figaw's version of mirrorboard](https://blog.xkcd.com/2007/08/14/mirrorboard-a-one-handed-keyboard-layout-for-the-lazy/)

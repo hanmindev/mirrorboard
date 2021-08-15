@@ -12,6 +12,35 @@ SendMode Input
 
 
 
+#If GetKeyState("Alt","P")
+	` & w::MouseMove, 0,-25,50,R
+	` & a::MouseMove, -25,0,50,R
+	` & s::MouseMove, 0,25,50,R
+	` & d::MouseMove, 25,0,50,R
+	
+	` & q::LButton
+	` & e::RButton
+
+	
+	` & r::send,{WheelUp}
+
+	` & f::send,{WheelDown}
+
+
+#If
+
+!i::MouseMove, 0,-25,50,R
+!j::MouseMove, -25,0,50,R
+!k::MouseMove, 0,25,50,R
+!l::MouseMove, 25,0,50,R
+
+!u::LButton
+!o::RButton
+
+!p::send,{WheelUp}
+
+!;::send,{WheelDown}
+
 !+q::Send {{}
 !+e::Send {}}
 
@@ -44,29 +73,27 @@ SendMode Input
 
 
 
-!#1::Send {PrintScreen}
-!#2::Send {ScrollLock}
-!#3::Send {Pause}
+!#q::Send {PrintScreen}
+!#w::Send {ScrollLock}
+!#e::Send {Pause}
 
-!#q::Send {Insert}
-!#a::Send {Delete}
+!#a::Send {Insert}
+!#s::Send {Home}
 
-
-!#w::Send {Home}
-!#d::Send {Down}
-!#s::Send {End}
-!#e::Send {Up}
+!#d::Send {PgUp}
+!#z::Send {Delete}
+!#x::Send {End}
+!#c::Send {PgDn}
 
 !+#w::Send {LShift down}{Home}{LShift up}
-!+#d::Send {LShift down}{Down}{LShift up}
+!+#d::Send {LShift down}{PgDn}{LShift up}
 !+#s::Send {LShift down}{End}{LShift up}
-!+#e::Send {LShift down}{Up}{LShift up}
+!+#e::Send {LShift down}{PgUp}{LShift up}
 
 !^#w::Send {LCtrl down}{Home}{LCtrl up}
-!^#d::Send {LCtrl down}{Down}{LCtrl up}
+!^#d::Send {LCtrl down}{PgDn}{LCtrl up}
 !^#s::Send {LCtrl down}{End}{LCtrl up}
-!^#e::Send LCtrl down}{Up}{{LCtrl up}
-
+!^#e::Send LCtrl down}{PgUp}{{LCtrl up}
 
 
 !1::Send {-}

@@ -18,7 +18,7 @@ You could throw mirrorboard.ahk in the [startup folder](https://www.google.com/s
 
 # Usage
 Here is a nice diagram to show what is mapped to what:  
-![](https://i.imgur.com/CYBTGXA.png)
+![](https://i.imgur.com/kTsYNnb.png)
 
 Pressing the caps lock or the tray key (blue) switches between the normal and the mirrored layout. The keys that are colored light blue are the keys that are different from the normal layout.
 
@@ -31,6 +31,8 @@ If you make a mistake, the backspace key is mapped to ctrl. I usually press it w
 To gain access to -__=+\|[]{} and the arrow keys, hold down alt and press the keys as shown on the diagram.
 
 To gain access to the nine keys above the arrow keys, while holding down alt, hold down the windows key as well, then press the keys as shown in the diagram.
+
+You can control the mouse by holding alt and the grave key, (\`) then pressing the keys as shown in the diagram. If using the keyboard with both hands, you can control the mouse straight in Mirrored++ Mode.
 
 You may notice that the mirrored ++ and mirrored # only works if you are using your left hand. Thats because all those keys are already on the right side, hence no reason to use the layouts.
 

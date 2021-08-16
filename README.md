@@ -18,7 +18,7 @@ You could throw mirrorboard.ahk in the [startup folder](https://www.google.com/s
 
 # Usage
 Here is a nice diagram to show what is mapped to what:  
-![](https://i.imgur.com/kTsYNnb.png)
+![](https://i.imgur.com/P5WM6rs.png)
 
 Pressing the caps lock or the tray key (blue) switches between the normal and the mirrored layout. The keys that are colored light blue are the keys that are different from the normal layout.
 

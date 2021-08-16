@@ -10,36 +10,56 @@ Suspend, on
 SendMode Input
 #UseHook
 
-
+Speed := 25
 
 #If GetKeyState("Alt","P")
-	` & w::MouseMove, 0,-25,50,R
-	` & a::MouseMove, -25,0,50,R
-	` & s::MouseMove, 0,25,50,R
-	` & d::MouseMove, 25,0,50,R
+	` & 1:: Speed := 5
+	` & 2:: Speed := 25
+	` & 3:: Speed := 125
+	` & 4:: Speed := 625
+	` & w::MouseMove, 0,-Speed,50,R
+	` & a::MouseMove, -Speed,0,50,R
+	` & s::MouseMove, 0,Speed,50,R
+	` & d::MouseMove, Speed,0,50,R
 	
 	` & q::Send {LButton}
 	` & e::Send {RButton}
 
 	
-	` & r::send,{WheelUp}
-
-	` & f::send,{WheelDown}
+	` & r::Send {WheelUp}
+	` & f::Send {WheelDown}
+	` & c::Send {WheelLeft}
+	` & v::Send {WheelRight}
+	
+	` & z::Send {XButton1}
+	` & x::Send {XButton2}
+	` & g::Send {MButton}
 
 
 #If
 
-!i::MouseMove, 0,-25,50,R
-!j::MouseMove, -25,0,50,R
-!k::MouseMove, 0,25,50,R
-!l::MouseMove, 25,0,50,R
+
+!7:: Speed := 5
+!8:: Speed := 25
+!9:: Speed := 125
+!0:: Speed := 625
+
+!i::MouseMove, 0,-Speed,50,R
+!j::MouseMove, -Speed,0,50,R
+!k::MouseMove, 0,Speed,50,R
+!l::MouseMove, Speed,0,50,R
 
 !u::Send {LButton}
 !o::Send {RButton}
 
-!p::send,{WheelUp}
+!p::Send {WheelUp}
+!;::Send {WheelDown}
+!.::Send {WheelLeft}
+!/::Send {WheelRight}
 
-!;::send,{WheelDown}
+!m::Send {XButton1}
+!,::Send {XButton2}
+!'::Send {MButton}
 
 !+q::Send {{}
 !+e::Send {}}

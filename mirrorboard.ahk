@@ -18,8 +18,8 @@ SendMode Input
 	` & s::MouseMove, 0,25,50,R
 	` & d::MouseMove, 25,0,50,R
 	
-	` & q::LButton
-	` & e::RButton
+	` & q::Send {LButton}
+	` & e::Send {RButton}
 
 	
 	` & r::send,{WheelUp}
@@ -34,8 +34,8 @@ SendMode Input
 !k::MouseMove, 0,25,50,R
 !l::MouseMove, 25,0,50,R
 
-!u::LButton
-!o::RButton
+!u::Send {LButton}
+!o::Send {RButton}
 
 !p::send,{WheelUp}
 

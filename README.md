@@ -18,6 +18,7 @@ April 3: 47 WPM
 June 8: 50 WPM  
 August 7: 51 WPM  
 September 18: 56 WPM  
+September 20: 58 WPM  
 
 As you can see, the improvement is very gradual. However, it should be noted that I rarely only type with my left hand, usually typing short phrases when I'm either eating, or busy and need to quickly reply to a message. I'm sure that if you practiced with only your left hand, you could get much faster much more quickly.  
 

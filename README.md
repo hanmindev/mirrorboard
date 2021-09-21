@@ -12,7 +12,7 @@ I have been using mirrorboard every day since March 1, 2021 (the layout, not tha
 
 Two-handed WPM: ~126 WPM  
 
-March 1: 20 WPM
+March 1: 20 WPM  
 March 31: 40 WPM  
 April 3: 47 WPM  
 June 8: 50 WPM  

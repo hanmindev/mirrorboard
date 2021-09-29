@@ -19,14 +19,15 @@ June 8: 50 WPM
 August 7: 51 WPM  
 September 18: 56 WPM  
 September 20: 58 WPM  
+September 29: 64 WPM  
 
 As you can see, the improvement is very gradual. However, it should be noted that I rarely only type with my left hand, usually typing short phrases when I'm either eating, or busy and need to quickly reply to a message. I'm sure that if you practiced with only your left hand, you could get much faster much more quickly.  
 
 Note: During March I covered one half of my keyboard so I could only use mirrorboard. I happened to have no writing assignments during that month, but it may not be feasible for everyone. I did not have any problems going back to typing with two hands; I had a two-handed WPM of around ~120 before I covered half my keyboard. The first typing test I did after only using my left hand for a month recorded me at ~105 WPM. After doing like 3, 1 minute typing tests, I was back to 120. So if you're worried that this will mess up your typing, there's my personal anecdote.  
 
-As of the time of writing, I am able to write at 56 WPM using mirrorboard, which is 44.4% of my maximum typing speed. I've found that realistically you don't really need more than 40 WPM for most typing requirements, (messaging, typing website addresses, etc) and I would assume one would use both of their hands if they were to write something like a paper.  
+As of the time of writing, I am able to write at 64 WPM using mirrorboard, which is 50.79% of my maximum typing speed. I've found that realistically you don't really need more than 40 WPM for most typing requirements, (messaging, typing website addresses, etc) and I would assume one would use both of their hands if they were to write something like a paper.  
 
-I am going to continue trying to make my typing faster; I'm curious as to what the highest WPM you can get with one hand is, compared to typing with two. I hypothesize that the main limiting factor for typing fast is how fast your brain can process what you're reading and translating that into finger movements, so I am inclined to believe that something like 80% of your two-handed WPM can be attained with only one hand. I'm currently at 44.4% so we'll see if it's even possible to break the 50% barrier :P
+I am going to continue trying to make my typing faster; I'm curious as to what the highest WPM you can get with one hand is, compared to typing with two. I hypothesize that the main limiting factor for typing fast is how fast your brain can process what you're reading and translating that into finger movements, so I am inclined to believe that something like 80% of your two-handed WPM can be attained with only one hand. ~~I'm currently at 44.4% so we'll see if it's even possible to break the 50% barrier :P~~ UPDATE: 9/29 I broke the 50% barrier, the next goal is 60%.
 
 
 

@@ -296,6 +296,10 @@ return
 Suspend, on
 return
 
+~+Space::
+Suspend, on
+return
+
 
 *Capslock::
 Suspend

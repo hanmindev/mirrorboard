@@ -68,7 +68,7 @@ https://discord.gg/zyewcWD5Rd
 https://www.reddit.com/r/mirrorboard/
 
 # Contributions
-Some code was stolen off various fourm posts and [Figaw's version of mirrorboard](https://blog.xkcd.com/2007/08/14/mirrorboard-a-one-handed-keyboard-layout-for-the-lazy/)
+Some code was stolen off various fourm posts and [Figaw's version of mirrorboard](https://variable.dk/2013/02/20/mirrorboard-for-windows-a-one-handed-keyboard/)
 
 Extra feature ideas were inspired by [rfxDarth's implementation](https://github.com/rfxDarth/mirrorboard/blob/master/README.md)
 

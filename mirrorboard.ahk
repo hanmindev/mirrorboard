@@ -215,13 +215,23 @@ return
 send, {blind}z
 return
 
++x::
+send, {blind}<
+return
+
 *x::
 send, {blind}.
 return
+
+
 *.::
 send, {blind}x
 return
 
+
++c::
+send, {blind}>
+return
 *c::
 send, {blind},
 return

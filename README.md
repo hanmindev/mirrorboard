@@ -43,9 +43,10 @@ Alternatively, download the release version from GitHub and run that instead to 
 
 # Usage
 Here is a nice diagram to show what is mapped to what:  
-![](https://i.imgur.com/64smw3F.png)
+![](https://i.imgur.com/B8xkSfQ.png)
 
-Pressing the caps lock or the tray key (blue) switches between the normal and the mirrored layout. The keys that are colored light blue are the keys that are different from the normal layout.
+(left hand mirrorboard)
+Pressing the caps lock button between the normal and the mirrored layout. The keys that are colored light blue are the keys that are different from the normal layout.
 
 Pressing space will type a space character and return the layout to normal.
 
@@ -60,6 +61,20 @@ To gain access to the nine keys above the arrow keys, while holding down alt, ho
 You can control the mouse by holding alt and the grave key, (\`) then pressing the keys as shown in the diagram. If using the keyboard with both hands, you can control the mouse straight in Mirrored++ Mode.
 
 You may notice that the mirrored ++ and mirrored # only works if you are using your left hand. Thats because all those keys are already on the right side, hence no reason to use the layouts.
+
+(right hand mirrorboard)
+Pressing the Tray button will send you to right-hand mirrorboard. This is exactly the same as left hand mirrorboard, except your right hand becomes your left hand.
+
+Then you can type keys that are on the left side of the keyboard. This is as if your right hand turned into your left hand.
+
+Then you can press the ' key to get the right side of the keyboard.
+
+Once again, pressing space or the ' key again will revert you to the previous state.
+
+Note that the ' key is set as the modifier key so the right control key has been remapped to '.
+
+To exit out of this mode press the tray key.
+
 
 If you are going to learn mirrorboard, I advise you start with your left hand, because most typing is done with the left hand so it'll be easier to learn.
 

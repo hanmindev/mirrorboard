@@ -329,6 +329,9 @@ return
 *y::
 send, {blind}t
 return
+*t::
+send, {blind}y
+return
 ;; Middle row
 *;::
 send, {blind}a
@@ -345,8 +348,8 @@ return
 *h::
 send, {blind}g
 return
-*'::
-send, {blind}``
+*g::
+send, {blind}h
 return
 ;; Bottom row
 */::
@@ -363,6 +366,9 @@ send, {blind}v
 return
 *n::
 send, {blind}b
+return
+*b::
+send, {blind}n
 return
 *6::
 send, {blind}1
@@ -385,6 +391,11 @@ State := 2
 return
 
 
+*RCtrl::
+send {blind}'
+return
+
+
 #If State = 2
 
 '::
@@ -396,8 +407,8 @@ State := 1
 return
 
 
-RCtrl::
-send {blind}{Backspace}
+*RCtrl::
+send {blind}'
 return
 
 #If

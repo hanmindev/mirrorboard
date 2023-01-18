@@ -392,7 +392,7 @@ return
 
 
 *RCtrl::
-send {blind}'
+send {blind}{``}
 return
 
 

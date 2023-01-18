@@ -43,7 +43,7 @@ Alternatively, download the release version from GitHub and run that instead to 
 
 # Usage
 Here is a nice diagram to show what is mapped to what:  
-![](https://i.imgur.com/ebJvBLu.png)
+![](https://i.imgur.com/RLtDT4C.png)
 
 (left hand mirrorboard)
 Pressing the caps lock button between the normal and the mirrored layout. The keys that are colored light blue are the keys that are different from the normal layout.

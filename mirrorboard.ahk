@@ -14,6 +14,22 @@ SetCapsLockState, alwaysoff
 Speed := 25
 State := 0
 
+full_command_line := DllCall("GetCommandLine", "str")
+
+if not (A_IsAdmin or RegExMatch(full_command_line, " /restart(?!\S)"))
+{
+    try
+    {
+        if A_IsCompiled
+            Run *RunAs "%A_ScriptFullPath%" /restart
+        else
+            Run *RunAs "%A_AhkPath%" /restart "%A_ScriptFullPath%"
+    }
+    ExitApp
+}
+
+;; MsgBox A_IsAdmin: %A_IsAdmin%`nCommand line: %full_command_line%
+
 
 #If GetKeyState("Alt","P") and State = 0
 	` & 1:: Speed := 5
@@ -257,6 +273,10 @@ send, {blind}{Right}
 return
 
 *m::
+send, {$}
+return
+
+*,::
 send, {blind}{Home}
 return
 
@@ -264,8 +284,9 @@ return
 send, {blind}{End}
 return
 
-*,::
-send, {$}
+*/::
+send, {blind}{\}
+Suspend, on
 return
 
 *;::Ctrl

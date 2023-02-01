@@ -415,6 +415,7 @@ return
 
 *Capslock::
 Suspend
+SetCapsLockState, off
 State := 0
 return
 
@@ -423,6 +424,6 @@ Suspend
 State := 1
 return
 
-*Esc::
+~*Esc::
 Suspend, On
 return

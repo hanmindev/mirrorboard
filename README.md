@@ -32,13 +32,21 @@ I am going to continue trying to make my typing faster; I'm curious as to what t
 
 
 # Installation
-1. Download AutoHotkey from here:
-https://www.autohotkey.com/download/
-2. Run mirrorboard.ahk
+1. Download the exe from [releases](https://github.com/hanmangokiwi/mirrorboard/releases)
 
-You could throw mirrorboard.ahk in the [startup folder](https://www.google.com/search?client=firefox-b-d&q=how+to+navigate+to+startup+folder+in+windows+10) if you want mirrorboard to be enabled at all times.  
+2. Put it in a safe folder that you know won't change
 
-Alternatively, download the release version from GitHub and run that instead to avoid having to download autohotkey.
+3. Download the Task Scheduler [xml file](https://cdn.discordapp.com/attachments/1078526025165701171/1078529292973133834/mirrorboard_task.xml)
+
+4. Go to the bottom of the bottom of the file and change "C:\Users\USER\PATH\TO\FOLDER\CONTAINING\MIRRORBOARD" to the folder path of where you saved the exe.
+
+5. Open Task Scheduler, then click "Import Task" and select the xml file.
+
+The reason we have to use task scheduler instead of putting it in shell:startup is because we need the program to run in administrator mode automatically. If you want, you can put it in shell:startup but it will ask for an adminstrator prompt every single time, which gets annoying.
+
+We want this file to run in administrator mode because if we don't, mirrorboard will stop working while using elevated applications. Also, I've found that using administrator mode reduces the chances that it'll miss a character or so during lag spikes (although that could be a coincidence)
+
+You can always download the source .ahk file from the repository, then compile it yourself using the autohotkey software. Don't forget to change the file name in the xml file if you do this.
 
 
 # Usage

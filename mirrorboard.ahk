@@ -289,6 +289,10 @@ send, {blind}{\}
 Suspend, on
 return
 
+*~Enter::
+Suspend, on
+return
+
 *;::Ctrl
 
 *p::

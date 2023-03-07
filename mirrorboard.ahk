@@ -55,7 +55,7 @@ if not (A_IsAdmin or RegExMatch(full_command_line, " /restart(?!\S)"))
 	` & g::Send {MButton}
 
 
-#If State = 0 or State = 1
+#If State = 0
 
 !7:: Speed := 5
 !8:: Speed := 25
@@ -140,8 +140,6 @@ if not (A_IsAdmin or RegExMatch(full_command_line, " /restart(?!\S)"))
 !+1::Send {_}
 !+2::Send {+}
 
-
-#If State = 0
 
 ;; Top row
 *q::
@@ -390,7 +388,7 @@ return
 send, {blind}5
 return
 
-'::
+*'::
 State := 2
 return
 
@@ -402,11 +400,16 @@ return
 
 #If State = 2
 
-'::
+*'::
 State := 1
 return
 
 *~Space::
+State := 1
+return
+
+
+*~Enter::
 State := 1
 return
 
@@ -430,4 +433,5 @@ return
 
 ~*Esc::
 Suspend, On
+State := 0
 return

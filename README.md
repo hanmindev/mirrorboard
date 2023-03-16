@@ -51,7 +51,7 @@ You can always download the source .ahk file from the repository, then compile i
 
 # Usage
 Here is a nice diagram to show what is mapped to what:  
-![](https://i.imgur.com/FATdTj1.png)
+![](https://i.imgur.com/1W1W6KG.png)
 
 (left hand mirrorboard)
 Pressing the caps lock button between the normal and the mirrored layout. The keys that are colored light blue are the keys that are different from the normal layout.

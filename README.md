@@ -36,7 +36,7 @@ I am going to continue trying to make my typing faster; I'm curious as to what t
 
 2. Put it in a safe folder that you know won't change
 
-3. Download the Task Scheduler [xml file](https://cdn.discordapp.com/attachments/1078526025165701171/1078529292973133834/mirrorboard_task.xml)
+3. Download the Task Scheduler xml file from the repository above
 
 4. Go to the bottom of the bottom of the file and change "C:\Users\USER\PATH\TO\FOLDER\CONTAINING\MIRRORBOARD" to the folder path of where you saved the exe.
 

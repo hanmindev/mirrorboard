@@ -32,7 +32,7 @@ I am going to continue trying to make my typing faster; I'm curious as to what t
 
 
 # Installation
-1. Download the exe from [releases](https://github.com/hanmangokiwi/mirrorboard/releases)
+1. Download the exe from [releases](https://github.com/hanmindev/mirrorboard/releases)
 
 2. Put it in a safe folder that you know won't change
 
